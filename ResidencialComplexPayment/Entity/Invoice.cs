@@ -1,6 +1,6 @@
 ﻿namespace ResidencialComplexPayment.Entity;
 
-public class Factor
+public class Invoice
 {
     public decimal Amount { get; private set; }
 
